@@ -19,5 +19,5 @@ It includes the database schema, edge functions, triggers, and seed data.
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/timensmajilovic/CaldaChallenge.git
 cd calda-challenge-backend
