@@ -1,0 +1,9 @@
+{
+  "user_id": "8a30af71-ff52-4119-bf61-b7b3406fb7a0",
+  "recipient_name": "John Doe",
+  "shipping_address": "123 Main Street",
+  "items": [
+    {"item_id": "52197b41-a320-48cf-b94d-a8ab6f12af04", "quantity": 2},
+    {"item_id": "59ed6b47-720e-45c9-9078-ba094ace81ab", "quantity": 1}
+  ]
+}
